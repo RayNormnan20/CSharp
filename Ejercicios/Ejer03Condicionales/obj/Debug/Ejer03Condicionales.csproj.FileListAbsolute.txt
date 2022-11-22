@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Ejer03Condicionales\bin\Debug\Ejer03Condicionales.exe.config
+C:\Users\Lenovo\source\repos\Ejer03Condicionales\bin\Debug\Ejer03Condicionales.exe
+C:\Users\Lenovo\source\repos\Ejer03Condicionales\bin\Debug\Ejer03Condicionales.pdb
+C:\Users\Lenovo\source\repos\Ejer03Condicionales\obj\Debug\Ejer03Condicionales.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Ejer03Condicionales\obj\Debug\Ejer03Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Ejer03Condicionales\obj\Debug\Ejer03Condicionales.exe
+C:\Users\Lenovo\source\repos\Ejer03Condicionales\obj\Debug\Ejer03Condicionales.pdb

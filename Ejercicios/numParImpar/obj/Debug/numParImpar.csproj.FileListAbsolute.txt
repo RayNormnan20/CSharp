@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\numParImpar\bin\Debug\numParImpar.exe.config
+C:\Users\Lenovo\source\repos\numParImpar\bin\Debug\numParImpar.exe
+C:\Users\Lenovo\source\repos\numParImpar\bin\Debug\numParImpar.pdb
+C:\Users\Lenovo\source\repos\numParImpar\obj\Debug\numParImpar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\numParImpar\obj\Debug\numParImpar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\numParImpar\obj\Debug\numParImpar.exe
+C:\Users\Lenovo\source\repos\numParImpar\obj\Debug\numParImpar.pdb

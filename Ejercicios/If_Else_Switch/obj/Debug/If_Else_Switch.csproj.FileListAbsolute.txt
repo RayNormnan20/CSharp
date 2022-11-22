@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\If_Else_Switch\bin\Debug\If_Else_Switch.exe.config
+C:\Users\Lenovo\source\repos\If_Else_Switch\bin\Debug\If_Else_Switch.exe
+C:\Users\Lenovo\source\repos\If_Else_Switch\bin\Debug\If_Else_Switch.pdb
+C:\Users\Lenovo\source\repos\If_Else_Switch\obj\Debug\If_Else_Switch.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\If_Else_Switch\obj\Debug\If_Else_Switch.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\If_Else_Switch\obj\Debug\If_Else_Switch.exe
+C:\Users\Lenovo\source\repos\If_Else_Switch\obj\Debug\If_Else_Switch.pdb
