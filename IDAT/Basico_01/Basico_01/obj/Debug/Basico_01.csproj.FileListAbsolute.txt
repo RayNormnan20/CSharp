@@ -1,0 +1,12 @@
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\bin\Debug\Basico_01.exe.config
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\bin\Debug\Basico_01.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\bin\Debug\Basico_01.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.Form1.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\Clase_01\Basico_01\Basico_01\obj\Debug\Basico_01.Form2.resources
