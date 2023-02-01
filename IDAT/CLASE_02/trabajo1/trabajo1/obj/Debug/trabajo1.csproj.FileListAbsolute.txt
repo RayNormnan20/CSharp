@@ -1,0 +1,39 @@
+G:\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.exe.config
+G:\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.exe
+G:\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.pdb
+G:\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csprojAssemblyReference.cache
+G:\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form1.resources
+G:\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Properties.Resources.resources
+G:\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csproj.GenerateResource.cache
+G:\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csproj.CoreCompileInputs.cache
+G:\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.exe
+G:\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.pdb
+G:\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form2.resources
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.exe.config
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.exe
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.pdb
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csprojAssemblyReference.cache
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form1.resources
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form2.resources
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form3.resources
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form4.resources
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form5.resources
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Properties.Resources.resources
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csproj.GenerateResource.cache
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csproj.CoreCompileInputs.cache
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.exe
+C:\Users\Katy\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.exe.config
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\bin\Debug\trabajo1.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form1.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form2.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form3.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form4.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Form5.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_02\trabajo1\trabajo1\obj\Debug\trabajo1.csprojAssemblyReference.cache
