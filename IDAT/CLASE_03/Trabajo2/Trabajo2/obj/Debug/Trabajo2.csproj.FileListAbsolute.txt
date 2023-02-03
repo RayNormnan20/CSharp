@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\bin\Debug\Trabajo2.exe.config
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\bin\Debug\Trabajo2.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\bin\Debug\Trabajo2.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.frmUno.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.Form2.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.frmTres.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.frmCuatro.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\Trabajo2\Trabajo2\obj\Debug\Trabajo2.csproj.SuggestedBindingRedirects.cache

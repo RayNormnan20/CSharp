@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\bin\Debug\CLASE_03.exe.config
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\bin\Debug\CLASE_03.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\bin\Debug\CLASE_03.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.Form1.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.Form2.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.Form3.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\CLASE_03\CLASE_03\CLASE_03\obj\Debug\CLASE_03.Form5.resources
