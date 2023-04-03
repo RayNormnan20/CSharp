@@ -1,0 +1,9 @@
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_ALUMNOS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_ALUMNOS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_ALUMNOS.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb

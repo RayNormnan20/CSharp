@@ -1,0 +1,16 @@
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe.config
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.exe
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.dll
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.Form1.resources
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_PRESENTACION\obj\Debug\CAPA_PRESENTACION.csproj.SuggestedBindingRedirects.cache

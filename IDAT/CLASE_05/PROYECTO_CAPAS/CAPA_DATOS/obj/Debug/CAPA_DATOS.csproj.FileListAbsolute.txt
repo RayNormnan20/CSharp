@@ -1,0 +1,6 @@
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
+C:\Users\Lenovo\OneDrive - Universidad Tecnologica del Peru\IDAT\CICLO lll 2023\C#\SEMANA_05\PROYECTO_CAPAS\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
