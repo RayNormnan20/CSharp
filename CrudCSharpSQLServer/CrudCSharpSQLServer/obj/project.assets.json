@@ -552,11 +552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\CrudCSharpSQLServer\\CrudCSharpSQLServer\\CrudCSharpSQLServer.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\GitHub\\CSharp\\CrudCSharpSQLServer\\CrudCSharpSQLServer\\CrudCSharpSQLServer.csproj",
       "projectName": "CrudCSharpSQLServer",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CrudCSharpSQLServer\\CrudCSharpSQLServer\\CrudCSharpSQLServer.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\GitHub\\CSharp\\CrudCSharpSQLServer\\CrudCSharpSQLServer\\CrudCSharpSQLServer.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\CrudCSharpSQLServer\\CrudCSharpSQLServer\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\GitHub\\CSharp\\CrudCSharpSQLServer\\CrudCSharpSQLServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
